@@ -6,7 +6,7 @@
 window.CONFIG = {
   nome: "Isadora — XV anos",
   whatsapp: {
-    numero: "+555181086566", // PREENCHER com DDI+DDD+numero do responsável (ex: 55...)
+    numero: "+5588988692212", // PREENCHER com DDI+DDD+numero do responsável (ex: 55...)
     mensagem: "Olá! Gostaria de confirmar minha presença na festa de 15 anos da Isadora, em 19/12/2026, às 21h."
   },
   mapa: "https://maps.app.goo.gl/7u8vWhQiNzzg65jL8", // PREENCHER com a URL https://... do local da festa
@@ -25,7 +25,7 @@ window.CONFIG = {
   },
   pix: {
     ativo: true,
-    chave: "nayti.neq@gmail.com",
+    chave: "88981346442",
     posicao: {"left":17.241494170830357,"top":82.06638115631692,"width":64.94599095883892,"height":5.214132762312634}
   },
 info: { ativo:true, posicao: {"left":72.00340233166786,"top":88.42826552462527,"width":22.113062098501068,"height":7.262526766595289} },
