@@ -41,9 +41,9 @@ botoesVoltar: {
     corTextoBotaoVoltar: "transparent"
   },
   botoesVoltar: {
-    presentes: { mostrarTexto: false, posicao: {left: 23.1, top: 90.9, width: 53.4, height: 4.8} },
-    dresscode: { mostrarTexto: false, posicao: {left: 17.0, top: 86.7, width: 65.3, height: 7.0} },
-    manual: { mostrarTexto: false, posicao: {left: 17.0, top: 86.8, width: 65.3, height: 7.0} }
+    presentes: { mostrarTexto:false, posicao: {"left":23.1,"top":90.9,"width":53.4,"height":4.8} },
+    dresscode: { mostrarTexto:false, posicao: {"left":14.906257435165358,"top":78.34882226980729,"width":69.48748512966928,"height":6.250535331905781} },
+    manual: { mostrarTexto:false, posicao: {"left":17,"top":86.8,"width":65.3,"height":7} },
   },
   hotspots: {
         confirm: { left:9.355103497501783, top:58.505995717344746, width:19.867071139662148, height:11.12441113490364 },
